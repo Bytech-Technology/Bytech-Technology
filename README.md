@@ -17,6 +17,15 @@ Currently, I focus on **web development**, **UX/UI design**, creating **desktop 
 
 I love solving problems with code and design, and continuously learning new technologies to improve.
 
+<div align="left">
+  <a href="mailto:tatilezcano03@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lezcano-agustin/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
 <p>&nbsp;</p>
 
 ## 🚀 What I’m working on
@@ -30,24 +39,32 @@ I love solving problems with code and design, and continuously learning new tech
 
 ## 💡 Skills & Technologies
 
-<p>
-<p>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-</p>
+<div align="center">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
 
 <p>&nbsp;</p>
 
@@ -64,30 +81,23 @@ I love solving problems with code and design, and continuously learning new tech
 
 <p>&nbsp;</p>
 
-## 📫 How to reach me
-
-- Email: tatilezcano03@gmail.com  
-- LinkedIn: [linkedin.com/in/agustinlezcano](https://www.linkedin.com/in/lezcano-agustin/)  
-- Portfolio: [agustinlezcano.dev](https://bytech-technology.vercel.app/)
-
-<p>&nbsp;</p>
-
 ## 📈 GitHub Stats
 
-<!-- Imagen centrada arriba -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zomboysoul&" alt="zomboysoul" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zomboysoul&background=0d0d0d&stroke=8a2be2&fire=ff00cc&currStreakLabel=ff00ff&currStreakNum=ff00ff&sideNums=00ffff&dates=ff66ff" 
+    alt="zomboysoul" 
+  />
 </p>
 
-<!-- Contenedor centrado con las dos imágenes en línea -->
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=zomboysoul&show_icons=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=zomboysoul&show_icons=true&locale=en&bg_color=0d0d0d&text_color=ff00ff&icon_color=00ffff&border_color=8a2be2" 
     alt="zomboysoul" 
     style="display: inline-block; margin-right: 20px; height: 180px; vertical-align: middle;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=zomboysoul&show_icons=true&locale=en&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zomboysoul&show_icons=true&locale=en&layout=compact&bg_color=0d0d0d&text_color=ff00ff&icon_color=00ffff&border_color=8a2be2" 
     alt="zomboysoul" 
     style="display: inline-block; height: 180px; vertical-align: middle;" 
   />
