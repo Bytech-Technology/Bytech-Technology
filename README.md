@@ -70,35 +70,41 @@ I love solving problems with code and design, and continuously learning new tech
 
 ## 📂 Featured Projects
 
-- **Portfolio Web**  
-  Personal portfolio website built with Express, EJS templates, CSS, and vanilla JavaScript (coming soon).
+- **🌐 Portfolio Web**  
+  A modern personal website developed with **Express.js**, **EJS templates**, and **vanilla JavaScript**, styled using custom **CSS**. Showcases skills, projects, and contact information.  
+  _🚧 Coming soon..._
 
-- **Electron App**  
-  Desktop app for managing tasks, built with Electron and Node.js (will upload soon).
+- **🖥️ Electron Task Manager**  
+  A cross-platform desktop application for organizing daily tasks and boosting productivity. Built with **Electron** and **Node.js** to provide a lightweight, responsive user experience.  
+  _📦 Upload in progress..._
 
-- **Console Games**  
-  Fun console-based games developed with Python (to be shared shortly).
-
+- **🎮 Python Console Games**  
+  A collection of interactive, text-based games crafted in **Python**, focusing on game logic, user input handling, and terminal-based UI.  
+  _🎁 Available shortly..._
+  
 <p>&nbsp;</p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zomboysoul&background=0d0d0d&stroke=8a2be2&fire=ff00cc&currStreakLabel=ff00ff&currStreakNum=ff00ff&sideNums=00ffff&dates=ff66ff" 
-    alt="zomboysoul" 
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=ZomboySoul&background=2d0d3a&ring=ff66ff&fire=ff66ff&currStreakLabel=ff66ff&currStreakNum=ffffff&sideNums=b97bff&dates=eeeeee&sideLabels=eeeeee" 
+      alt="GitHub Streak" 
+    />
+  </a>
 </p>
 
-<div align="center">
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=zomboysoul&show_icons=true&locale=en&bg_color=0d0d0d&text_color=ff00ff&icon_color=00ffff&border_color=8a2be2" 
-    alt="zomboysoul" 
-    style="display: inline-block; margin-right: 20px; height: 180px; vertical-align: middle;" 
+    src="https://github-readme-stats.vercel.app/api?username=ZomboySoul&show_icons=true&theme=jolly&bg_color=2d0d3a&title_color=ff66ff&text_color=eeeeee&icon_color=b97bff&border_color=ff66ff" 
+    height="200"
   />
+</p>
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=zomboysoul&show_icons=true&locale=en&layout=compact&bg_color=0d0d0d&text_color=ff00ff&icon_color=00ffff&border_color=8a2be2" 
-    alt="zomboysoul" 
-    style="display: inline-block; height: 180px; vertical-align: middle;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZomboySoul&layout=compact&bg_color=2d0d3a&title_color=ff66ff&text_color=eeeeee&icon_color=b97bff&border_color=ff66ff" 
+    height="200"
   />
-</div>
+</p>
