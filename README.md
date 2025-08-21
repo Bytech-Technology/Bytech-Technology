@@ -12,10 +12,11 @@ I love solving problems with code and design, and continuously learning new tech
 
 <p>&nbsp;</p>
 
-- Web applications with modern JavaScript frameworks and Node.js backend.
-- UX/UI projects using Figma and best design practices.
-- Desktop apps leveraging Electron for cross-platform solutions.
-- Console games development as a fun side project.
+💻 Full-Stack Developer experienced in modern technologies  
+🚀 Skilled in **Python, Node.js, Express, MySQL, MongoDB** and more  
+🌍 Passionate about building **web applications, desktop apps (Electron)** and **console games** as fun side projects  
+🎨 Enthusiastic about UX/UI design using Figma and best design practices  
+📌 Always learning and contributing to Open Source projects
 
 <p>&nbsp;</p>
 
