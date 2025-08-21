@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Agustin Lezcano</h1>
-
-<h3 align="center">Fullstack Developer & UX/UI Designer</h3>
-
 <p>&nbsp;</p>  <!-- espacio extra -->
 
 I am passionate about building intuitive and beautiful digital experiences that combine frontend, backend, and design.  
