@@ -55,11 +55,11 @@ I love solving problems with code and design, and continuously learning new tech
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZomboySoul&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZomboySoul&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZomboySoul&theme=github_dark&utcOffset=-3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZomboySoul&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZomboySoul&theme=github_dark)
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZomboySoul&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bytech-Technology&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bytech-Technology&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bytech-Technology&theme=github_dark&utcOffset=-3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bytech-Technology&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bytech-Technology&theme=github_dark)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytech-Technology&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 
 </div>
